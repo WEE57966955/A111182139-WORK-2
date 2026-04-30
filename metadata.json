@@ -1,0 +1,6 @@
+{
+  "name": "AI 專題展示網頁",
+  "description": "展示包含旅行規劃、3D 模型與 AI 影片的個人專題網頁，按日期排列。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
